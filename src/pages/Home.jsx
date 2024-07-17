@@ -2,7 +2,7 @@ import React from "react";
 
 //criando uma constante home, que é uma função
 
-//              => declarando uma função (jeito diferente)
+              //=> declarando uma função (jeito diferente)
 const Home = () => {
     return (
         <div>
